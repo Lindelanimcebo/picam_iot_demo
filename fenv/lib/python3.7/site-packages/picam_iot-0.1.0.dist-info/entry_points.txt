@@ -1,0 +1,3 @@
+[console_scripts]
+picam_iot = picam_iot.cli:main
+
